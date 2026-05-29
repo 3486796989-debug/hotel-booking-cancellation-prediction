@@ -46,3 +46,12 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Open the notebook:
+
+```bash
+jupyter notebook hotel_booking_cancellation_prediction.ipynb
+```
+
+Run the notebook cells sequentially after placing `data.csv` in the project directory.
